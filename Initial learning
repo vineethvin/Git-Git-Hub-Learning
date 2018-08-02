@@ -16,8 +16,10 @@ Steps:
 4) Commit a file
 5) Go back and edit the file
 6) Commit the new changes to master file.
+7) Created new branch
 
 Terms Used :
 a) Repository - Is a repository of files.
 b) Commit - is similar to save 
 c) Commit Hash - Unique identifier for commit done.
+d) Branch - It is part of code which uses the main file
