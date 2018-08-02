@@ -23,3 +23,5 @@ a) Repository - Is a repository of files.
 b) Commit - is similar to save 
 c) Commit Hash - Unique identifier for commit done.
 d) Branch - It is part of code which uses the main file
+e) Pull Request - Branch asking to pull its changes to Master and mergre
+f) Merge       - Mergeing of changes.
