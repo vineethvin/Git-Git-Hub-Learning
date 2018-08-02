@@ -9,6 +9,14 @@ Git                                                     Git Hub
 Version Control Software                                Web Services where you can signup and use the Git Functionality
 
 
+Steps:
+1) Signin to Github
+2) Create a new repository
+3) Create a new file
+4) Commit a file
+5) Go back and edit the file
+6) Commit the new changes to master file.
+
 Terms Used :
 a) Repository - Is a repository of files.
 b) Commit - is similar to save 
