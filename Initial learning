@@ -18,6 +18,7 @@ Steps:
 6) Commit the new changes to master file.
 7) Created new branch
 8) Creating a new branch and also change master also.
+9) Creating a fork using Vroomcoder and committing it.
 
 Terms Used :
 a) Repository - Is a repository of files.
@@ -26,3 +27,4 @@ c) Commit Hash - Unique identifier for commit done.
 d) Branch - It is part of code which uses the main file
 e) Pull Request - Branch asking to pull its changes to Master and mergre
 f) Merge       - Mergeing of changes.
+g) Fork - Pulling others code and edit it and committing it on your profile.
